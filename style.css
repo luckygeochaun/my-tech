@@ -411,4 +411,5 @@ ul {
 }
 
 .feature-card__icon--cyan {
-  background: var(
+  background: var(--color-cyan-bg);
+}
